@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://megrobock.github.io/sitemap
+Sitemap: https://megrobock.github.io/app/sitemap
+Sitemap: https://megrobock.github.io/assets/sitemap
+Sitemap: https://megrobock.github.io/css/sitemap
+Sitemap: https://megrobock.github.io/includes/sitemap
+Sitemap: https://megrobock.github.io/item/sitemap
+Sitemap: https://megrobock.github.io/src/sitemap
